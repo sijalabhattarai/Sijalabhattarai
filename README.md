@@ -2,6 +2,8 @@
 
 <h1 align="center">Hi 👋, I'm Sijala</h1>
 
+[![alt text](https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif)](https://github.com/your-username/your-repo-name)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sijalabhattarai&label=Profile%20views&color=0e75b6&style=flat" alt="sijalabhattarai" /> </p>
 
 <h3 align="left">Connect with me:</h3>
