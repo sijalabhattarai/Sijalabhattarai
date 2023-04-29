@@ -17,7 +17,8 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sijalabhattarai&show_icons=true&locale=en&layout=compact&theme=dracula" alt="sijalabhattarai" /></p>
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sijalabhattarai&show_icons=true&locale=en" alt="sijalabhattarai" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sijalabhattarai&show_icons=true&locale=en&theme=dracula" alt="sijalabhattarai" /></p>
+
 
 
 
