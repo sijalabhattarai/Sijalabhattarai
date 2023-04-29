@@ -51,11 +51,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sijalabhattarai&theme=darkhub" alt="sijalabhattarai" /></a> </p>
 
-<h1 align="center">Language I use most</h1>
+<h3 align="center">Language I use most</h3>
 <div style="display: flex; flex-direction: column;">
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sijalabhattarai&show_icons=true&locale=en&layout=compact&theme=dracula" alt="sijalabhattarai" /></p></div>
 
-<h1 align="center">Github Stats</h1>
+<br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sijalabhattarai&show_icons=true&locale=en&theme=dracula" alt="sijalabhattarai" /></p>
 
 
