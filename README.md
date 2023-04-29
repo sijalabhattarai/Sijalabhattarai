@@ -1,7 +1,6 @@
 
 
 <h1 align="center">Hi 👋, I'm Sijala</h1>
-![girl](https://user-images.githubusercontent.com/99179340/215381703-ab9e06e8-eef3-4833-9198-4927a189a45f.gif)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sijalabhattarai&label=Profile%20views&color=0e75b6&style=flat" alt="sijalabhattarai" /> </p>
 
